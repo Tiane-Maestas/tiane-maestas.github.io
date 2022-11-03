@@ -1,0 +1,83 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex a94d86b..74a9f69 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -327,9 +327,9 @@[m
+ [m
+           <div class="col-lg-4 col-md-6 portfolio-item filter-ZooSeeker">[m
+             <div class="portfolio-wrap">[m
+[31m-              <img src="assets/img/portfolio/ZooSeeker-1.jpg" class="img-fluid" alt="">[m
+[32m+[m[32m              <img src="assets/img/portfolio/ZooSeeker-1.webp" class="img-fluid" alt="">[m
+               <div class="portfolio-links">[m
+[31m-                <a href="assets/img/portfolio/ZooSeeker-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ZooSeeker 1"><i class="bx bx-plus"></i></a>[m
+[32m+[m[32m                <a href="assets/img/portfolio/ZooSeeker-1.webp" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ZooSeeker 1"><i class="bx bx-plus"></i></a>[m
+                 <a href="zooseeker-details.html" title="More Details"><i class="bx bx-link"></i></a>[m
+               </div>[m
+             </div>[m
+[36m@@ -347,9 +347,9 @@[m
+ [m
+           <div class="col-lg-4 col-md-6 portfolio-item filter-ZooSeeker">[m
+             <div class="portfolio-wrap">[m
+[31m-              <img src="assets/img/portfolio/ZooSeeker-2.jpg" class="img-fluid" alt="">[m
+[32m+[m[32m              <img src="assets/img/portfolio/ZooSeeker-2.webp" class="img-fluid" alt="">[m
+               <div class="portfolio-links">[m
+[31m-                <a href="assets/img/portfolio/ZooSeeker-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ZooSeeker 2"><i class="bx bx-plus"></i></a>[m
+[32m+[m[32m                <a href="assets/img/portfolio/ZooSeeker-2.webp" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ZooSeeker 2"><i class="bx bx-plus"></i></a>[m
+                 <a href="zooseeker-details.html" title="More Details"><i class="bx bx-link"></i></a>[m
+               </div>[m
+             </div>[m
+[36m@@ -377,9 +377,9 @@[m
+ [m
+           <div class="col-lg-4 col-md-6 portfolio-item filter-ZooSeeker">[m
+             <div class="portfolio-wrap">[m
+[31m-              <img src="assets/img/portfolio/ZooSeeker-3.jpg" class="img-fluid" alt="">[m
+[32m+[m[32m              <img src="assets/img/portfolio/ZooSeeker-3.webp" class="img-fluid" alt="">[m
+               <div class="portfolio-links">[m
+[31m-                <a href="assets/img/portfolio/ZooSeeker-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ZooSeeker 3"><i class="bx bx-plus"></i></a>[m
+[32m+[m[32m                <a href="assets/img/portfolio/ZooSeeker-3.webp" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ZooSeeker 3"><i class="bx bx-plus"></i></a>[m
+                 <a href="zooseeker-details.html" title="More Details"><i class="bx bx-link"></i></a>[m
+               </div>[m
+             </div>[m
+[36m@@ -472,6 +472,19 @@[m
+               </div>[m
+             </div><!-- End testimonial item -->[m
+ [m
+[32m+[m[32m            <div class="swiper-slide">[m
+[32m+[m[32m              <div class="testimonial-item" data-aos="fade-up">[m
+[32m+[m[32m                <p>[m
+[32m+[m[32m                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>[m
+[32m+[m[32m                  Tiane is a self starter who is driven by his vast curiousity. During his internship at SPI, he tackled problems confidently and was prepared with the right questions after doing thorough research. He thrives both independently and in a team.[m
+[32m+[m[32m                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>[m
+[32m+[m[32m                </p>[m
+[32m+[m[32m                <img src="assets/img/testimonials/Jose.webp" class="testimonial-img" alt="">[m
+[32m+[m[32m                <h3>Jose Peralta</h3>[m
+[32m+[m[32m                <h4>Mentor &amp; Software Engineer</h4>[m
+[32m+[m[32m              </div>[m
+[32m+[m[32m            </div><!-- End testimonial item -->[m
+[32m+[m
+           </div>[m
+           <div class="swiper-pagination"></div>[m
+         </div>[m
+[1mdiff --git a/zooseeker-details.html b/zooseeker-details.html[m
+[1mindex 7726307..4576af4 100644[m
+[1m--- a/zooseeker-details.html[m
+[1m+++ b/zooseeker-details.html[m
+[36m@@ -104,15 +104,15 @@[m
+               <div class="swiper-wrapper align-items-center">[m
+ [m
+                 <div class="swiper-slide">[m
+[31m-                  <img src="assets/img/portfolio/ZooSeeker-1.jpg" alt="">[m
+[32m+[m[32m                  <img src="assets/img/portfolio/ZooSeeker-1.webp" alt="">[m
+                 </div>[m
+ [m
+                 <div class="swiper-slide">[m
+[31m-                  <img src="assets/img/portfolio/ZooSeeker-2.jpg" alt="">[m
+[32m+[m[32m                  <img src="assets/img/portfolio/ZooSeeker-2.webp" alt="">[m
+                 </div>[m
+ [m
+                 <div class="swiper-slide">[m
+[31m-                  <img src="assets/img/portfolio/ZooSeeker-3.jpg" alt="">[m
+[32m+[m[32m                  <img src="assets/img/portfolio/ZooSeeker-3.webp" alt="">[m
+                 </div>[m
+ [m
+               </div>[m
